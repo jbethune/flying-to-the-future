@@ -13,6 +13,7 @@
 require_once 'util.php';
 require_once 'photo_story.php';
 $language = util\get_user_language_from_request();
+$language = util\whitelist( $language, 'en', ['en'] ); //make sure that the website uses a language that is supported
 $story = photo_story\load_with_language( 'default', $language );
 if( $story === null ) {
 	echo 'Error: Could not load image story<br>';
