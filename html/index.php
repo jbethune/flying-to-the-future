@@ -70,7 +70,7 @@ In the interest of future generations, I hereby commit to not use air travel unt
 Once you have made your pledge (completely free of charge) feel free to show off your new certificate!
 </p>
 
-<p><img src="img/science.png" title="science">Are you a scientist and you need to travel a lot to conferences? Check out tihs <a href="scientist.html">letter template</a> to give a strong excuse for not going.</p>
+<p><img src="img/science.png" title="science">Are you a scientist and you need to travel a lot to conferences? Check out this <a href="scientist.html">letter template</a> to give a strong excuse for not going.</p>
 
 <p><img src="img/GitHub-Mark-32px.png" title="GitHub Mascot">Are you a software developer? Check out <a href="https://github.com/jbethune/flying-to-the-future">the code of this project</a> on GitHub</p>
 
