@@ -1,0 +1,39 @@
+@	humans_fulfilling_their_dreams	img/sunrise_airplanes.jpg
+100	0	We have fulfilled human kind's first dream	white
+45	45	It is now up to us to keep dreaming...	white
+45	90	and give us           more time	whitemore time	white
+135	135	to find	white
+530	135	solutions	white
+104	245	to fight	white
+536	245	climate change	white
+@	cars_vs_planes	img/automobile-car-exhaust-pipe-97045.jpg
+300	94	Flying is one	white
+43	267	of the strongest contributors
+149	354	to climate change.	white
+0	540	A single flight easily produces as much greenhouse gases as one car an entire year	white
+@	air_traffic	img/flight_radar.jpg
+391	200	And there is a lot	white
+411	300	of air traffic	white
+416	411	going on	white
+@	flying_is_convenient	img/landing_plane.jpg
+40	59	Because flying is so easy
+207	136	And so convenient
+282	374	And that by itself is great!
+257	528	Humans have figured all of this out!	white
+@	future	img/clouds.jpg
+0	0	We believe in a future where our dreams
+193	80	continue to become true.
+0	295	And we believe in opportunities that will make this future possible.
+0	564	Opportunitites that everyone can contribute to.
+@	what_does_it_take	img/questionmark.jpg
+496	94	What does it take?	black
+511	201	We need to rethink	black
+540	306	air mobility!	black
+@	choice	img/plane_overhead_city.jpg
+0	59	Wecause we
+500	139	have a choice
+365	249	to say "no"
+356	384	to air travel.
+@	join	img/virtual_reality.jpg
+143	150	Join us for a while
+126	379	to make a difference	white
