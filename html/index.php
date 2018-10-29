@@ -48,9 +48,8 @@ We need to rethink what we expect from our own mobility. And we need to be prepa
 This is where you come in: You can say <b>no</b> to air travel and back up your stance by an official commitment from this website! And the best part is: Your commitment has an expiration date, because we believe that we will find a solution in the future!
 </p>
 
-<p><b style="color:blue">new:</b> Are you living abroad? Do you have relatives who live very far away? We also offer an <a href="citizen-of-the-world.php">alternative certificate</a> for you!</p>
+<p>Are you living abroad? Do you have relatives who live very far away? We also offer an <a href="citizen-of-the-world.php">alternative certificate</a> for you!</p>
 
-<p><b style="color:blue">new:</b> A <a href="scientist.html">letter template</a> for scientists who choose not to travel to a converence.</p>
 
 <form action="register.php" method="POST">
 <fieldset><legend>Commitment</legend>
@@ -70,6 +69,10 @@ In the interest of future generations, I hereby commit to not use air travel unt
 <p>
 Once you have made your pledge (completely free of charge) feel free to show off your new certificate!
 </p>
+
+<p><img src="img/science.png" title="science">Are you a scientist and you need to travel a lot to conferences? Check out tihs <a href="scientist.html">letter template</a> to give a strong excuse for not going.</p>
+
+<p><img src="img/GitHub-Mark-32px.png" title="GitHub Mascot">Are you a software developer? Check out <a href="https://github.com/jbethune/flying-to-the-future">the code of this project</a> on GitHub</p>
 
 </body>
 </html> 
