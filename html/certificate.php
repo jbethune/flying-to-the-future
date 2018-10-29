@@ -26,5 +26,16 @@ if( $story === null ) {
 $story -> render( 'en' );
 ?>
 
+<p>Make sure you share your certificate! Simple give the following link to others:
+<?php
+$protocol = 'https';
+if( !isset( $_SERVER[ 'HTTPS' ] ) || $_SERVER[ 'HTTPS' ] = 'off' ) {
+	$protocol = 'http';
+}
+$link = $protocol.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+echo "<a href=\"$link\">$link</a>";
+?>
+</p>
+
 </body>
 </html> 
