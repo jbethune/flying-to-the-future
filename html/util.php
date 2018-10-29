@@ -104,9 +104,9 @@ function generate_image_story_from_cert( $cert_id ) {
 		$text .= ", further identified by &quot$extra_info&quot";
 	}
 	if( $cert_type == 'no-fly' ) {
-		$text .= 'has commited to contribute to saving the climate by not using air travel';
+		$text .= ' has commited to contribute to saving the climate by not using air travel';
 	} else {
-		$text .= 'has made a commitment to contribute to saving the climate  by only using air travel for causes of great personal or public importance';
+		$text .= ' has made a commitment to contribute to saving the climate  by only using air travel for causes of great personal or public importance';
 	}
 
 	$image_url = 'img/angel.jpg'; //TODO pass image parameter through GET
